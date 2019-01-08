@@ -1,2 +1,2 @@
 # Data-Structures
-Practice problems on Leetcode and Hackerank 
+Practice problems in Leetcode and Hackerank 
